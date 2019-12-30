@@ -1,0 +1,1 @@
+0 * * * * PYTHONPATH=/home//home/ivan/PycharmProjects/test1 python home//home/ivan/PycharmProjects/test1/echo.notify.py
